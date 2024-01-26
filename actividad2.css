@@ -1,0 +1,24 @@
+
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(160, 100%, 75%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: hsl(0, 0%, 0%);
+    padding: 15px;
+    display: block;
+    text-align: center;
+    
+}
+
+.navbar a:hover{
+    background-color: hsl(180, 100%, 50%);
+}
+
+.navbar li{
+    float: left;
+}
